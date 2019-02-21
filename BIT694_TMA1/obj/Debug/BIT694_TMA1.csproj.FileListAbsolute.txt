@@ -1,0 +1,14 @@
+C:\Users\krest\Desktop\C# Projects\BIT694_TMA1\BIT694_TMA1\obj\Debug\BIT694_TMA1.csprojResolveAssemblyReference.cache
+C:\Users\krest\Desktop\C# Projects\BIT694_TMA1\BIT694_TMA1\obj\Debug\BIT694_TMA1.csproj.CoreCompileInputs.cache
+C:\Users\krest\Desktop\C# Projects\BIT694_TMA1\BIT694_TMA1\bin\Debug\BIT694_TMA1.exe.config
+C:\Users\krest\Desktop\C# Projects\BIT694_TMA1\BIT694_TMA1\bin\Debug\BIT694_TMA1.exe
+C:\Users\krest\Desktop\C# Projects\BIT694_TMA1\BIT694_TMA1\bin\Debug\BIT694_TMA1.pdb
+C:\Users\krest\Desktop\C# Projects\BIT694_TMA1\BIT694_TMA1\obj\Debug\BIT694_TMA1.exe
+C:\Users\krest\Desktop\C# Projects\BIT694_TMA1\BIT694_TMA1\obj\Debug\BIT694_TMA1.pdb
+C:\Users\krest\Desktop\BIT694_Screenshots\BIT694_TMA1\BIT694_TMA1\bin\Debug\BIT694_TMA1.exe.config
+C:\Users\krest\Desktop\BIT694_Screenshots\BIT694_TMA1\BIT694_TMA1\bin\Debug\BIT694_TMA1.exe
+C:\Users\krest\Desktop\BIT694_Screenshots\BIT694_TMA1\BIT694_TMA1\bin\Debug\BIT694_TMA1.pdb
+C:\Users\krest\Desktop\BIT694_Screenshots\BIT694_TMA1\BIT694_TMA1\obj\Debug\BIT694_TMA1.csprojResolveAssemblyReference.cache
+C:\Users\krest\Desktop\BIT694_Screenshots\BIT694_TMA1\BIT694_TMA1\obj\Debug\BIT694_TMA1.csproj.CoreCompileInputs.cache
+C:\Users\krest\Desktop\BIT694_Screenshots\BIT694_TMA1\BIT694_TMA1\obj\Debug\BIT694_TMA1.exe
+C:\Users\krest\Desktop\BIT694_Screenshots\BIT694_TMA1\BIT694_TMA1\obj\Debug\BIT694_TMA1.pdb
